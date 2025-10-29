@@ -94,8 +94,8 @@ const Contact = () => {
                   </CardHeader>
                   <CardContent>
                     <CardDescription>
-                      O'zbekiston Respublikasi Qishloq xo'jaligi vazirligi huzurida<br />
-                      Toshkent shahri, O'zbekiston Respublikasi
+                      100140, Toshkent viloyati, Qibray tumani,<br />
+                      Universitet ko'chasi, 2-uy
                     </CardDescription>
                   </CardContent>
                 </Card>
@@ -109,8 +109,8 @@ const Contact = () => {
                   </CardHeader>
                   <CardContent>
                     <CardDescription>
-                      +998 71 202 00 99<br />
-                      Ish kunlari: 9:00 - 18:00
+                      (+0371) 2605230<br />
+                      <small>Tel/faks: (+0371) 2605230</small>
                     </CardDescription>
                   </CardContent>
                 </Card>
@@ -124,8 +124,7 @@ const Contact = () => {
                   </CardHeader>
                   <CardContent>
                     <CardDescription>
-                      info@iscad.uz<br />
-                      contact@iscad.uz
+                      ooqxssrtxm@agro.uz
                     </CardDescription>
                   </CardContent>
                 </Card>
