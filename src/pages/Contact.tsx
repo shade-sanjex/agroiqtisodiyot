@@ -109,8 +109,8 @@ const Contact = () => {
                   </CardHeader>
                   <CardContent>
                     <CardDescription>
-                      (+0371) 2605230<br />
-                      <small>Tel/faks: (+0371) 2605230</small>
+                      +998903586164<br />
+                      <small>+998935200565</small>
                     </CardDescription>
                   </CardContent>
                 </Card>

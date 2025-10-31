@@ -83,7 +83,7 @@ export default function Requirements() {
                   Maqola yuborish
                 </h2>
                 <p className="text-sm md:text-base">
-                  Ushbu jurnalda e'lon qilingan maqolalar bilan <strong>Oziq-ovqat va kishloq xo'jaligi soxasida strategik rivojlanish va tadqiqotlar xalqaro markazi</strong> veb-saytida <a href="http://www.iscad.uz" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline"><strong>www.iscad.uz</strong></a> orqali tanishishingiz mumkin.
+                  Ushbu jurnalda e'lon qilingan maqolalar bilan <strong>Oziq-ovqat va kishloq xo'jaligi soxasida strategik rivojlanish va tadqiqotlar xalqaro markazi</strong> veb-saytida <a href="http://www.agroiqtisodiyot.uz" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline"><strong>www.agroiqtisodiyot.uz</strong></a> orqali tanishishingiz mumkin.
                 </p>
               </div>
 

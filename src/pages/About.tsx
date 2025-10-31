@@ -122,15 +122,12 @@ const About = () => {
                     <div>
                       <p className="font-semibold text-primary mb-2">Telefon:</p>
                       <p className="text-muted-foreground">
-                        <a href="tel:+998712605230" className="hover:text-primary transition-colors">
-                          (+0371) 2605230
+                        <a href="tel:+998935200565" className="hover:text-primary transition-colors">
+                          +998935200565
                         </a>
                       </p>
                     </div>
-                    <div>
-                      <p className="font-semibold text-primary mb-2">Faks:</p>
-                      <p className="text-muted-foreground">(+0371) 2605230</p>
-                    </div>
+                 
                     <div>
                       <p className="font-semibold text-primary mb-2">Elektron pochta:</p>
                       <p className="text-muted-foreground">
@@ -142,8 +139,8 @@ const About = () => {
                     <div>
                       <p className="font-semibold text-primary mb-2">Veb-sayt:</p>
                       <p className="text-muted-foreground">
-                        <a href="http://www.iscad.uz" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
-                          www.iscad.uz
+                        <a href="http://www.agroiqtisodiyot.uz" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                          www.agroiqtisodiyot.uz
                         </a>
                       </p>
                     </div>
